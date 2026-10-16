@@ -1,5 +1,9 @@
 > [!NOTE]
-> This is an archived copy of the original Markdown-It-Emoji Customizer repository, which was removed or made private (see: [actuallysomecat/markdown-it-emoji-customizer](https://github.com/actuallysomecat/markdown-it-emoji-customizer)). Because the plugin was released under the MIT License, I've preserved a copy here so others can continue to find and use it. This repository is not actively maintained. The code provided is unchanged from the published package.
+> This is an archived copy of the original Markdown-It-Emoji Customizer repository, which was removed or made private (see: [actuallysomecat/markdown-it-emoji-customizer](https://github.com/actuallysomecat/markdown-it-emoji-customizer)). Because the plugin was released under the MIT License, I've preserved a copy here so others can continue to find and use it.
+> 
+> The plugin code is unchanged from the published package. **To install from this archive**, use `github:cats-cant-code/markdown-it-emoji-customizer` in place of the original.
+> 
+> This repository is not actively maintained.
 
 # Markdown-It-Emoji Customizer
 
